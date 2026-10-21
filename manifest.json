@@ -1,0 +1,24 @@
+{
+  "source": "Local demo_docs_release_20260509 package supplied by repository owner",
+  "source_archive_sha256": "41e4361575fab5c667dc074244bcc049c01c1fa6c36a37e9a74e06ce07ca336a",
+  "cargo_records": 500000,
+  "driver_records": 10,
+  "create_time_range": [
+    "2026-03-01 00:01:25",
+    "2026-03-31 23:59:06"
+  ],
+  "files": {
+    "data/cargo_dataset.jsonl": {
+      "bytes": 210674085,
+      "sha256": "da70a695a879fe7bef3c4b6915202e5baf61775d2b5fca8d89b186dcd1a0cc66"
+    },
+    "data/drivers.json": {
+      "bytes": 12021,
+      "sha256": "1ecbb80e0a7e6cddcba2f6d5e9070140507e7a982b5620b077b7b7e7628979ad"
+    },
+    "data/cargo_dataset.jsonl.gz": {
+      "bytes": 22082764,
+      "sha256": "bc839bfd037a6f6f3ac2fdc3825ff0acd57b92336588ae432a9715a1691dc153"
+    }
+  }
+}
